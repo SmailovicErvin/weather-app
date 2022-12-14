@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    background: #448aff;
+    font-family: 'Lora', serif;
+}
+
+.container {  
+    width: 26%;
+  }
+
+.card{
+    border-radius: 50px;
+    background: #113a81;
+    padding: 3%;
+    text-align: center;
+}
